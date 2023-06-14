@@ -23,7 +23,7 @@ The Calculator Frontend is a web application that allows users to perform arithm
 
 2. Install the dependencies: `npm install`
 
-3. Build the app: `npm build`
+3. Build the application: `npm run build`
 
 4. Start the development server: `npm start`
 
