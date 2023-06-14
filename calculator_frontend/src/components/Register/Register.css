@@ -1,0 +1,13 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    margin-top: 10px;
+  }
+  

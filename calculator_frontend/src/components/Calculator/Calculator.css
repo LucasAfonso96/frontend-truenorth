@@ -1,0 +1,68 @@
+.private-component {
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+
+.section-title {
+  margin-bottom: 20px;
+}
+
+.calculator-container {
+  max-width: 400px;
+  margin: 0 auto;
+  border: solid;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.calculator-display {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.calculator-input {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 18px;
+}
+
+.calculator-buttons {
+  justify-content: space-between;
+}
+
+.calculator-buttons .btn {
+  margin-top: 10px;
+  max-width: 200px;
+}
+
+.operation-buttons {
+  margin-top: 20px;
+}
+
+.operation-button {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.operation-button .cost {
+  display: block;
+  margin-top: 5px;
+}
+
+
+.result {
+  margin-top: 10px;
+  font-weight: bold;
+  display: block;
+}
+
+.calculator-balance {
+  margin-top: 10px;
+  color: #666;
+}
+
+h2{
+  text-align: center;
+}
